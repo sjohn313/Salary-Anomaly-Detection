@@ -1,0 +1,14 @@
+anomaly_detection_project/
+├── data/               # Raw, processed, and external data (git-ignored)
+├── models/             # Serialized model files (.pkl, .h5) and metadata
+├── notebooks/          # EDA and prototyping (prefixed: 01_eda, 02_modeling)
+├── src/                # The "Source" core package
+│   ├── __init__.py
+│   ├── data_loader.py  # ingestion and cleaning
+│   ├── features.py     # Feature engineering/scaling
+│   ├── model.py        # Model architecture (e.g., Isolation Forest, Autoencoder)
+│   └── trainer.py      # Training and evaluation loops
+├── tests/              # Unit tests for data validation and model output
+├── config.yaml         # Hyperparameters and file paths
+├── requirements.txt    # Dependency list
+└── main.py             # Entry point for the production pipeline
