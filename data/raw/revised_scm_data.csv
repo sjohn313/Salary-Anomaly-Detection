@@ -1,0 +1,1001 @@
+"age","education","years_experience","gender","sex","race","ethnicity","pregnancy","department","position_level","market_rate_salary","negotiated_salary","is_anomaly"
+58,"Master",28.5,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Entry",97100,106200,FALSE
+22,"Master",3.1,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",54800,52500,FALSE
+46,"PhD",19.7,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",90600,89100,FALSE
+31,"Bachelor",4.5,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Mid",76500,76200,FALSE
+57,"Master",23.2,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Director",140300,151800,FALSE
+39,"Bachelor",14,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Mid",91300,87900,FALSE
+45,"Bachelor",8.1,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Executive",162800,174100,FALSE
+28,"PhD",2,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Entry",81200,74600,FALSE
+57,"Bachelor",17,"Male","Female","White","Not Hispanic or Latino",FALSE,"Sales","Director",125500,139300,FALSE
+46,"Bachelor",14.3,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Mid",96900,89900,FALSE
+58,"Bachelor",20.1,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",TRUE,"Marketing","Executive",181400,184600,FALSE
+41,"Bachelor",17.9,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",96600,92200,FALSE
+47,"Bachelor",19.4,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Entry",72000,74500,FALSE
+24,"Master",3.6,"Male","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Mid",90900,94700,FALSE
+62,"Bachelor",41,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Executive",192300,199500,FALSE
+46,"Bachelor",15.6,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",76600,75700,FALSE
+48,"Master",19.9,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"HR","Director",146700,146100,FALSE
+57,"Master",35.5,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Mid",130400,123700,FALSE
+58,"Bachelor",29.9,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Executive",188700,205600,FALSE
+52,"Bachelor",7.7,"Did not disclose","Female","Asian","Hispanic or Latino",FALSE,"Sales","Director",105900,117100,FALSE
+26,"Bachelor",6.3,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",74300,76500,FALSE
+41,"Bachelor",18,"Male","Female","Black or African American","Not Hispanic or Latino",FALSE,"HR","Mid",92500,93700,FALSE
+55,"Master",12.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"Software","Director",142700,161200,FALSE
+49,"Bachelor",18.3,"Did not disclose","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Entry",66300,60400,FALSE
+61,"Bachelor",16.7,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",69400,62200,FALSE
+24,"Master",1.4,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Mid",84800,81900,FALSE
+54,"Bachelor",28.3,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",111000,102200,FALSE
+63,"Bachelor",21.2,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Mid",102000,102100,FALSE
+45,"Master",19.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",139400,136700,FALSE
+51,"Bachelor",11.7,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Director",123100,119600,FALSE
+64,"Bachelor",14.7,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Entry",70900,62000,FALSE
+36,"Master",13.4,"Male","Male","White","Hispanic or Latino",FALSE,"Administrative","Director",135700,141400,FALSE
+43,"Bachelor",16.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Executive",172700,187800,FALSE
+29,"PhD",7.3,"Female","Female","Asian","Hispanic or Latino",FALSE,"Sales","Mid",113300,108300,FALSE
+57,"PhD",34.9,"Male","Male","White","Hispanic or Latino",FALSE,"Sales","Executive",217000,233800,FALSE
+25,"Bachelor",0.2,"Did not disclose","Female","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Executive",140000,134900,FALSE
+43,"Bachelor",14.8,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",69500,67400,FALSE
+39,"Bachelor",20,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Mid",101400,104600,FALSE
+49,"Bachelor",17.2,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Mid",102400,103400,FALSE
+26,"PhD",0.1,"Did not disclose","Male","Black or African American","Hispanic or Latino",FALSE,"Marketing","Director",135100,137200,FALSE
+25,"Bachelor",5.6,"Female","Female","Asian","Hispanic or Latino",FALSE,"Sales","Executive",142000,142300,FALSE
+55,"Bachelor",27.9,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"HR","Director",137500,159000,FALSE
+56,"Master",33.9,"Male","Male","White","Not Hispanic or Latino",FALSE,"Marketing","Mid",135500,155000,FALSE
+45,"Bachelor",6.1,"Male","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",106400,120700,FALSE
+44,"Bachelor",8.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Executive",157000,165600,FALSE
+47,"Bachelor",24.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",75200,73700,FALSE
+27,"Bachelor",8,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Director",105900,70000,TRUE
+27,"Master",5.9,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",85900,89100,FALSE
+23,"Master",3.9,"Male","Male","White","Not Hispanic or Latino",FALSE,"Sales","Mid",82100,90400,FALSE
+24,"Master",5.5,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Entry",68200,73300,FALSE
+42,"Bachelor",17.9,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Director",114300,116500,FALSE
+23,"Bachelor",2.1,"Male","Male","White","Not Hispanic or Latino",FALSE,"Marketing","Director",102100,110600,FALSE
+59,"Bachelor",36.8,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Director",158200,143700,FALSE
+31,"PhD",0.1,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Entry",66500,66800,FALSE
+61,"Bachelor",21.4,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Mid",105200,107100,FALSE
+26,"PhD",3.3,"Did not disclose","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Executive",168300,176600,FALSE
+54,"Bachelor",10,"Female","Female","White","Hispanic or Latino",FALSE,"Sales","Executive",161300,86000,TRUE
+60,"Master",22.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"Marketing","Director",147200,152400,FALSE
+57,"Bachelor",23.9,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",86900,87000,FALSE
+63,"Bachelor",40,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Director",156800,143400,FALSE
+30,"Bachelor",5.6,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Director",104200,106600,FALSE
+50,"Bachelor",3.9,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Director",113400,113400,FALSE
+33,"Master",10.8,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Entry",65500,61300,FALSE
+41,"Bachelor",9.1,"Did not disclose","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Director",117800,114700,FALSE
+30,"Master",8.6,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",65400,61500,FALSE
+64,"Bachelor",14.9,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Sales","Entry",66900,68100,FALSE
+56,"PhD",0.6,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Director",132500,146700,FALSE
+50,"Bachelor",29.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Mid",100700,91500,FALSE
+37,"Bachelor",2.6,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Sales","Mid",72000,75700,FALSE
+58,"Bachelor",2.1,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Mid",75000,77000,FALSE
+49,"Bachelor",16.4,"Female","Female","White","Hispanic or Latino",FALSE,"Sales","Entry",65900,66600,FALSE
+26,"PhD",6.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",104300,110200,FALSE
+49,"Master",0.1,"Did not disclose","Female","White","Hispanic or Latino",FALSE,"Administrative","Mid",87500,90000,FALSE
+23,"Bachelor",4.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"Marketing","Director",107500,120900,FALSE
+39,"Bachelor",8.5,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",91600,92400,FALSE
+45,"Master",12.3,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Director",130000,126000,FALSE
+39,"Bachelor",1.3,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Entry",61300,59300,FALSE
+26,"Bachelor",6.4,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Software","Director",98800,96600,FALSE
+61,"Bachelor",30.8,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Executive",180600,169600,FALSE
+61,"Master",29.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Executive",195100,188300,FALSE
+42,"Master",16.9,"Male","Female","Black or African American","Hispanic or Latino",FALSE,"Software","Mid",104300,105100,FALSE
+57,"Master",9.3,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Entry",76100,71700,FALSE
+57,"Bachelor",1.2,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",116000,118000,FALSE
+60,"Master",10.2,"Male","Male","Asian","Hispanic or Latino",FALSE,"Marketing","Entry",76000,82300,FALSE
+63,"Bachelor",28.1,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",116500,124900,FALSE
+39,"Master",0.5,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Executive",161300,177100,FALSE
+48,"Bachelor",8.2,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Director",118800,124000,FALSE
+34,"PhD",15.1,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",120600,121400,FALSE
+40,"Bachelor",22,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Executive",165200,180000,FALSE
+53,"Bachelor",31.6,"Female","Female","Black or African American","Not Hispanic or Latino",TRUE,"Marketing","Executive",191700,197800,FALSE
+37,"Master",2.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"HR","Mid",85500,94100,FALSE
+50,"Master",28.7,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Executive",194100,213100,FALSE
+38,"PhD",10.2,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Entry",81500,85400,FALSE
+65,"Master",23.2,"Female","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Executive",191100,184900,FALSE
+30,"Bachelor",7.4,"Male","Male","Asian","Hispanic or Latino",FALSE,"Marketing","Entry",50200,54200,FALSE
+42,"Bachelor",6.7,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Mid",77300,79400,FALSE
+64,"Bachelor",4.6,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",83400,74400,FALSE
+29,"Master",0.5,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Mid",82100,73700,FALSE
+50,"Bachelor",19.6,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Director",132200,126600,FALSE
+59,"Master",11.6,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Director",121400,130000,FALSE
+22,"Master",0.1,"Male","Male","Asian","Hispanic or Latino",FALSE,"Software","Mid",85700,93100,FALSE
+34,"Master",2.9,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Mid",89600,99300,FALSE
+35,"Bachelor",10.9,"Did not disclose","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Mid",78600,80300,FALSE
+26,"Master",0.7,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Administrative","Entry",57600,55600,FALSE
+30,"Bachelor",11.4,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Executive",158000,162700,FALSE
+37,"Bachelor",11.8,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Director",116400,108900,FALSE
+47,"Master",23.6,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Mid",109300,110800,FALSE
+64,"Master",14.6,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",101300,96200,FALSE
+63,"Bachelor",36,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",159700,167300,FALSE
+63,"Bachelor",30.3,"Male","Male","White","Not Hispanic or Latino",FALSE,"Marketing","Executive",184300,208400,FALSE
+54,"Bachelor",4.5,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Director",107000,114400,FALSE
+50,"Bachelor",7,"Male","Male","White","Not Hispanic or Latino",FALSE,"Software","Mid",83600,92400,FALSE
+46,"Bachelor",17.1,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",99800,88100,FALSE
+53,"PhD",34.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Mid",136900,151400,FALSE
+38,"Master",0.1,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Director",116100,128100,FALSE
+35,"Bachelor",16.9,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Mid",98200,101000,FALSE
+27,"Bachelor",4.5,"Female","Male","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Executive",151600,143400,FALSE
+64,"Master",42.9,"Female","Female","Asian","Hispanic or Latino",FALSE,"HR","Director",170300,183500,FALSE
+58,"Bachelor",13.6,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Entry",71600,105100,TRUE
+37,"PhD",8.7,"Male","Male","Asian","Hispanic or Latino",FALSE,"Marketing","Director",138400,159100,FALSE
+52,"Master",16.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Mid",102600,99100,FALSE
+55,"Bachelor",27.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Director",140400,127600,FALSE
+51,"Bachelor",10.3,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Entry",60200,59000,FALSE
+53,"PhD",2.8,"Did not disclose","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Mid",113600,117000,FALSE
+27,"Bachelor",0.6,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Mid",66700,61200,FALSE
+43,"Bachelor",2.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Entry",61400,59500,FALSE
+59,"Bachelor",22.4,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",135800,122900,FALSE
+52,"Master",11.1,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Director",133700,145000,FALSE
+27,"Bachelor",4.6,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",53000,51500,FALSE
+41,"Bachelor",22,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",122600,130300,FALSE
+36,"PhD",8.9,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Marketing","Director",137700,137000,FALSE
+55,"Bachelor",15.2,"Did not disclose","Male","White","Not Hispanic or Latino",FALSE,"Administrative","Executive",168100,176100,FALSE
+63,"Master",20.7,"Did not disclose","Female","White","Not Hispanic or Latino",FALSE,"Sales","Executive",201300,217300,FALSE
+44,"Bachelor",21.4,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",131400,141300,FALSE
+33,"Bachelor",8.5,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Entry",58200,58400,FALSE
+47,"Bachelor",13.9,"Male","Male","White","Hispanic or Latino",FALSE,"Administrative","Mid",91500,100900,FALSE
+62,"Master",6.1,"Male","Male","White","Hispanic or Latino",FALSE,"Sales","Director",137100,151500,FALSE
+22,"Bachelor",1.5,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Director",93100,101000,FALSE
+23,"Bachelor",0.3,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",TRUE,"Finance/Accounting","Entry",46600,40700,FALSE
+45,"Bachelor",15.6,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Administrative","Director",123500,121400,FALSE
+55,"Bachelor",10.9,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Executive",165500,167100,FALSE
+46,"Bachelor",12.5,"Female","Female","White","Hispanic or Latino",FALSE,"Marketing","Mid",96100,99600,FALSE
+49,"Bachelor",13.8,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Entry",64800,67300,FALSE
+64,"Master",42.6,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"HR","Mid",130700,128900,FALSE
+35,"Bachelor",13.9,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Mid",86000,77800,FALSE
+55,"Bachelor",3.5,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",53200,46500,FALSE
+23,"Bachelor",3,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Director",93600,88500,FALSE
+52,"Bachelor",18.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Entry",75600,69700,FALSE
+53,"Bachelor",1.4,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",54900,56100,FALSE
+48,"Bachelor",14.7,"Male","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Mid",87500,86800,FALSE
+31,"Bachelor",4.5,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",64300,55400,FALSE
+49,"Bachelor",13.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",75700,71600,FALSE
+58,"Master",11.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"Marketing","Entry",76200,76200,FALSE
+31,"Master",3.4,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Mid",94000,96800,FALSE
+26,"Master",6.5,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Marketing","Director",114100,116400,FALSE
+56,"Bachelor",29,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",111700,105500,FALSE
+35,"Bachelor",7.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",69700,67700,FALSE
+35,"Master",1.2,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Entry",67100,67000,FALSE
+49,"Bachelor",25.7,"Female","Female","White","Hispanic or Latino",FALSE,"HR","Director",133700,136500,FALSE
+54,"PhD",27.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Director",153500,163200,FALSE
+58,"Bachelor",29.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",92500,120800,TRUE
+56,"Bachelor",0.5,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",102600,109300,FALSE
+47,"Bachelor",1.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",62100,59000,FALSE
+52,"Bachelor",32,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",97400,92500,FALSE
+64,"Bachelor",42.6,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Mid",130700,129800,FALSE
+53,"PhD",26.6,"Female","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",139600,143100,FALSE
+38,"Master",6.9,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Mid",85200,89300,FALSE
+48,"Master",15.6,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Mid",116200,103300,FALSE
+51,"PhD",29.4,"Male","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",173600,201900,FALSE
+57,"Master",0.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Entry",71900,73000,FALSE
+41,"Master",15.4,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Sales","Mid",106000,95400,FALSE
+32,"PhD",6.5,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Entry",77200,79000,FALSE
+38,"Bachelor",14.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Executive",162600,167500,FALSE
+30,"PhD",2.8,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Mid",97300,92800,FALSE
+38,"PhD",13.2,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Director",150200,161200,FALSE
+34,"Bachelor",14.1,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Marketing","Mid",79100,77400,FALSE
+52,"Master",4.3,"Male","Male","Asian","Hispanic or Latino",FALSE,"Administrative","Mid",90900,100800,FALSE
+22,"Master",0.2,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Entry",61500,54500,FALSE
+38,"Bachelor",15.1,"Female","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",82200,79400,FALSE
+54,"Bachelor",1.9,"Female","Female","Asian","Hispanic or Latino",FALSE,"Administrative","Entry",52400,51900,FALSE
+49,"Bachelor",24.2,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Entry",88700,78400,FALSE
+23,"Bachelor",2.1,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Entry",50000,51600,FALSE
+52,"Bachelor",5.2,"Did not disclose","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",64200,65400,FALSE
+29,"Bachelor",5.3,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",53800,51700,FALSE
+37,"Bachelor",2.8,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Director",110400,114300,FALSE
+24,"Bachelor",1.6,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Software","Mid",74500,76300,FALSE
+58,"Master",35.1,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Director",166100,167300,FALSE
+34,"Master",6.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Software","Director",122100,128800,FALSE
+33,"Bachelor",11.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",57800,54600,FALSE
+22,"Bachelor",1.6,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",41500,38600,FALSE
+51,"PhD",31.6,"Male","Female","White","Not Hispanic or Latino",FALSE,"HR","Executive",216900,248800,FALSE
+52,"PhD",10.2,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Director",140500,139900,FALSE
+58,"Bachelor",23.7,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Software","Director",131000,121000,FALSE
+27,"Master",2.2,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Marketing","Mid",88500,87500,FALSE
+37,"Bachelor",18.5,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Executive",171600,177500,FALSE
+31,"Bachelor",5.7,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",49300,45800,FALSE
+28,"Bachelor",2.1,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",41700,40100,FALSE
+30,"Bachelor",10,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Mid",75600,75500,FALSE
+62,"Bachelor",41.4,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Director",164600,157600,FALSE
+46,"PhD",27.1,"Did not disclose","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",134000,126200,FALSE
+24,"Bachelor",2.4,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Entry",48300,45200,FALSE
+39,"Bachelor",17.8,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",126800,119800,FALSE
+49,"Master",10.3,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Director",128700,127000,FALSE
+36,"Bachelor",9.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",52800,49100,FALSE
+50,"Bachelor",10.6,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Executive",167100,170300,FALSE
+41,"PhD",2.6,"Female","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",83100,80700,FALSE
+46,"Bachelor",4.2,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Director",102500,102400,FALSE
+37,"Master",15.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"HR","Entry",87000,76000,FALSE
+45,"Bachelor",9,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Director",114100,131500,FALSE
+54,"Bachelor",33.4,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Mid",112100,114600,FALSE
+59,"Bachelor",14.4,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Entry",87300,86700,FALSE
+64,"PhD",19.6,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",125500,121900,FALSE
+62,"Bachelor",17.7,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Mid",90200,92400,FALSE
+43,"PhD",10.6,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Entry",88800,84700,FALSE
+47,"Master",8.6,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",76800,74900,FALSE
+41,"Master",20.5,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Software","Mid",115400,110400,FALSE
+58,"Bachelor",26.5,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",140300,139500,FALSE
+64,"Bachelor",26.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",138900,126500,FALSE
+36,"Master",16.8,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",131500,120100,FALSE
+42,"Bachelor",23.7,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",81900,84800,FALSE
+55,"Bachelor",4.2,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Entry",54600,50100,FALSE
+46,"Master",13.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",83800,75600,FALSE
+59,"Bachelor",27.6,"Female","Female","White","Hispanic or Latino",FALSE,"Sales","Executive",183000,203500,FALSE
+22,"Bachelor",0.2,"Male","Male","White","Not Hispanic or Latino",FALSE,"Sales","Entry",36200,39700,FALSE
+35,"Master",7.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",172200,175200,FALSE
+32,"Bachelor",12,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Director",114400,109500,FALSE
+49,"Bachelor",20,"Male","Male","White","Not Hispanic or Latino",FALSE,"Administrative","Mid",98900,106000,FALSE
+39,"Bachelor",13.5,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Mid",97100,97600,FALSE
+55,"Master",5.7,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"HR","Entry",71000,67200,FALSE
+63,"Bachelor",17.8,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",TRUE,"Administrative","Entry",77100,66200,FALSE
+57,"Bachelor",1.6,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Executive",154100,148200,FALSE
+41,"PhD",2.4,"Did not disclose","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",85800,82800,FALSE
+36,"Master",12.1,"Did not disclose","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",74200,67200,FALSE
+28,"Master",8.1,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",65300,63800,FALSE
+48,"Bachelor",7.2,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Mid",79500,76300,FALSE
+51,"Bachelor",23.9,"Did not disclose","Female","Black or African American","Hispanic or Latino",FALSE,"Sales","Entry",70400,63000,FALSE
+26,"Bachelor",6,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Executive",143100,144100,FALSE
+43,"Bachelor",15.2,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Entry",75400,72400,FALSE
+41,"Bachelor",0.7,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Entry",50800,54300,FALSE
+62,"Bachelor",41.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",104500,93400,FALSE
+32,"Bachelor",10.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Entry",62000,59100,FALSE
+49,"Master",4.5,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",98200,87900,FALSE
+59,"Bachelor",15.7,"Female","Female","Asian","Hispanic or Latino",FALSE,"Sales","Director",124300,129900,FALSE
+63,"Bachelor",26.2,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Executive",183200,183100,FALSE
+30,"Bachelor",11.9,"Did not disclose","Male","White","Hispanic or Latino",FALSE,"Marketing","Director",120000,125700,FALSE
+44,"Master",10.4,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Mid",103900,1e+05,FALSE
+47,"Bachelor",5.7,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Director",116100,123100,FALSE
+62,"Master",30.7,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Administrative","Director",150400,158800,FALSE
+32,"Master",13.1,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Director",130100,140100,FALSE
+40,"Bachelor",14.8,"Did not disclose","Male","White","Hispanic or Latino",FALSE,"Software","Director",118500,129900,FALSE
+49,"Master",26.4,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Mid",116200,117100,FALSE
+42,"Bachelor",10.9,"Female","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Mid",87900,85600,FALSE
+57,"Bachelor",10.7,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",74000,70500,FALSE
+63,"Bachelor",3,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"HR","Director",102600,109100,FALSE
+43,"Master",10.8,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Mid",94400,93600,FALSE
+46,"Bachelor",14.5,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Director",121500,129600,FALSE
+51,"Bachelor",9.2,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Director",114300,122800,FALSE
+42,"Master",22.3,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Executive",191400,194000,FALSE
+65,"Bachelor",25.6,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Director",137700,149300,FALSE
+42,"Bachelor",0.6,"Female","Female","Asian","Hispanic or Latino",FALSE,"Administrative","Executive",146700,151700,FALSE
+27,"Master",5.1,"Did not disclose","Female","Asian","Not Hispanic or Latino",FALSE,"Software","Mid",95600,97300,FALSE
+62,"Master",13,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Entry",86700,75900,FALSE
+31,"Bachelor",2.1,"Did not disclose","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Entry",45600,42600,FALSE
+45,"Master",18.7,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Marketing","Mid",99600,98400,FALSE
+28,"Master",7,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Director",122200,114000,FALSE
+35,"Master",2.3,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",75800,71200,FALSE
+33,"Bachelor",13.4,"Male","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",62200,57800,FALSE
+31,"Bachelor",2,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Director",96700,102900,FALSE
+46,"Master",25.8,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Entry",88800,82900,FALSE
+58,"Bachelor",6.2,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Director",107400,102800,FALSE
+23,"Bachelor",0.7,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",98700,96900,FALSE
+56,"Master",8.2,"Did not disclose","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Director",132900,127800,FALSE
+55,"Bachelor",17.5,"Did not disclose","Male","Asian","Hispanic or Latino",FALSE,"Software","Entry",75600,76100,FALSE
+48,"Master",19.2,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Director",144800,149400,FALSE
+52,"Master",9.7,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Executive",179900,235400,TRUE
+48,"Bachelor",29.3,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",141000,141900,FALSE
+37,"Master",10,"Did not disclose","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Director",128200,129300,FALSE
+57,"Bachelor",27.7,"Female","Female","White","Not Hispanic or Latino",FALSE,"Administrative","Entry",81800,77600,FALSE
+45,"Bachelor",14.8,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Entry",72100,71700,FALSE
+59,"Master",8.6,"Did not disclose","Female","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",99500,94900,FALSE
+42,"Bachelor",4.9,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",52400,52800,FALSE
+41,"Bachelor",6.6,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Entry",56400,52500,FALSE
+32,"Bachelor",6.7,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Entry",57500,53400,FALSE
+54,"Bachelor",5,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Director",123900,129200,FALSE
+35,"PhD",14.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Entry",97800,65300,TRUE
+49,"Bachelor",7.3,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Mid",79000,76300,FALSE
+54,"Master",15.7,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Mid",109900,123900,FALSE
+50,"Bachelor",7.8,"Female","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",80000,83500,FALSE
+57,"Bachelor",13.6,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",125600,123600,FALSE
+53,"Master",32.2,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",120000,120600,FALSE
+59,"PhD",29.4,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Marketing","Director",159900,154800,FALSE
+43,"Bachelor",18.5,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Executive",171700,166900,FALSE
+65,"Bachelor",27.1,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Director",145100,135800,FALSE
+28,"Bachelor",0.4,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Entry",43400,41200,FALSE
+65,"Bachelor",31.5,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Entry",97500,104400,FALSE
+26,"Bachelor",6.4,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Entry",61100,59500,FALSE
+52,"Bachelor",25.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Executive",184600,187100,FALSE
+53,"Bachelor",31.5,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Mid",119000,115500,FALSE
+39,"Bachelor",7.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Director",112800,119700,FALSE
+60,"Bachelor",17.2,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Sales","Director",136400,140200,FALSE
+34,"Bachelor",5.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Entry",60500,60400,FALSE
+51,"Bachelor",30.1,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Executive",187400,205500,FALSE
+23,"Bachelor",0.7,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Director",97500,102000,FALSE
+49,"Master",19.6,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Software","Entry",88200,83200,FALSE
+24,"Bachelor",1,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",54200,56600,FALSE
+54,"Bachelor",26.6,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Mid",111000,118400,FALSE
+50,"PhD",25.5,"Female","Female","Asian","Hispanic or Latino",FALSE,"Software","Mid",127200,127200,FALSE
+41,"Bachelor",8.6,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",109400,107200,FALSE
+64,"Master",18.2,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Mid",114300,110000,FALSE
+30,"Bachelor",11.1,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",56400,59800,FALSE
+31,"Bachelor",6.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Executive",160600,169400,FALSE
+28,"Bachelor",5.2,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",76600,73000,FALSE
+49,"Bachelor",10.3,"Female","Female","White","Hispanic or Latino",FALSE,"Sales","Mid",88100,93900,FALSE
+39,"Bachelor",8.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Executive",146800,163400,FALSE
+46,"PhD",8.4,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",92800,87700,FALSE
+65,"Bachelor",31.9,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",TRUE,"Administrative","Director",144400,130500,FALSE
+31,"PhD",9.9,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Executive",187200,201600,FALSE
+30,"PhD",5.5,"Female","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Entry",69300,62400,FALSE
+40,"Bachelor",8.3,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",62700,59900,FALSE
+36,"Bachelor",7.2,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",157700,157300,FALSE
+24,"Bachelor",1.1,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Marketing","Entry",40200,37800,FALSE
+43,"Master",19.2,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Mid",109500,105600,FALSE
+41,"PhD",4.5,"Did not disclose","Female","White","Hispanic or Latino",FALSE,"Marketing","Mid",97200,99700,FALSE
+63,"Bachelor",18.9,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Software","Director",125900,128500,FALSE
+55,"Bachelor",23.8,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",137700,153200,FALSE
+44,"Master",8.7,"Female","Female","Asian","Not Hispanic or Latino",TRUE,"Sales","Executive",170700,184300,FALSE
+38,"Bachelor",0.9,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Entry",49400,47300,FALSE
+39,"Bachelor",6.2,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Director",106600,118600,FALSE
+40,"Bachelor",13.5,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",56100,52200,FALSE
+38,"Bachelor",1.6,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Mid",76500,114200,TRUE
+51,"PhD",2.5,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Executive",166200,165800,FALSE
+31,"Bachelor",12.3,"Female","Female","White","Hispanic or Latino",FALSE,"Marketing","Mid",91300,96600,FALSE
+58,"Bachelor",12.7,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",92700,92900,FALSE
+31,"Bachelor",3.3,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",105600,111500,FALSE
+55,"PhD",3.6,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Sales","Director",132900,137100,FALSE
+25,"Bachelor",2.5,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",39300,37700,FALSE
+46,"Bachelor",27,"Did not disclose","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",86000,81900,FALSE
+47,"Bachelor",15.5,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",TRUE,"HR","Mid",94500,90800,FALSE
+60,"Master",31.3,"Male","Male","White","Not Hispanic or Latino",FALSE,"Administrative","Mid",124600,137400,FALSE
+54,"Bachelor",9.3,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",65300,32700,TRUE
+43,"Bachelor",15.2,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"HR","Entry",72900,75600,FALSE
+65,"Bachelor",1,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Mid",81600,80700,FALSE
+40,"Bachelor",17.9,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Software","Entry",74800,72000,FALSE
+27,"Master",6.1,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",69200,67000,FALSE
+65,"Master",42.5,"Male","Male","White","Hispanic or Latino",FALSE,"Sales","Director",167900,195900,FALSE
+46,"Master",19.6,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",119400,106500,FALSE
+51,"Bachelor",1.9,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",80300,84900,FALSE
+63,"Bachelor",18.1,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Mid",101200,94900,FALSE
+60,"PhD",8.7,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Entry",87800,85900,FALSE
+46,"Bachelor",8.2,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Sales","Entry",52500,52600,FALSE
+23,"PhD",3.9,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Entry",75100,73800,FALSE
+59,"Bachelor",8.6,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Sales","Executive",159800,179000,FALSE
+30,"Master",3.8,"Female","Female","Black or African American","Not Hispanic or Latino",TRUE,"HR","Entry",54500,48200,FALSE
+32,"Bachelor",13.6,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",121700,129500,FALSE
+27,"Bachelor",6,"Did not disclose","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Entry",54200,48200,FALSE
+52,"PhD",13,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Director",152800,173800,FALSE
+26,"Bachelor",5.3,"Female","Female","Asian","Hispanic or Latino",FALSE,"Administrative","Entry",52800,53900,FALSE
+35,"Master",8.3,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",131500,139000,FALSE
+63,"Bachelor",23.5,"Did not disclose","Male","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Mid",1e+05,98700,FALSE
+22,"Bachelor",2.2,"Male","Female","White","Hispanic or Latino",FALSE,"HR","Mid",66600,72400,FALSE
+62,"PhD",42.5,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Entry",128800,135000,FALSE
+31,"Master",5.3,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Mid",95100,88900,FALSE
+33,"Bachelor",7.5,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",50100,45800,FALSE
+43,"Bachelor",24.8,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Executive",187200,203200,FALSE
+22,"Bachelor",1.8,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Mid",74400,74300,FALSE
+64,"Bachelor",22.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Director",138000,148700,FALSE
+25,"Bachelor",5.1,"Female","Female","White","Hispanic or Latino",FALSE,"Sales","Director",102000,108600,FALSE
+24,"Bachelor",0.8,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"HR","Director",101600,97800,FALSE
+59,"Bachelor",22.4,"Male","Male","Asian","Hispanic or Latino",FALSE,"Administrative","Mid",100100,101600,FALSE
+26,"Bachelor",5,"Did not disclose","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",75200,81100,FALSE
+63,"Bachelor",2.3,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Director",108700,107900,FALSE
+41,"Master",19.9,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Entry",90300,84000,FALSE
+55,"Bachelor",18.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",171100,174400,FALSE
+44,"Master",4,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Entry",64500,62700,FALSE
+57,"Bachelor",4.4,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Entry",58600,58600,FALSE
+41,"Bachelor",21.9,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Entry",79500,82000,FALSE
+30,"Master",6.9,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Marketing","Entry",72500,72100,FALSE
+48,"Bachelor",18.3,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Executive",174800,180800,FALSE
+24,"Master",1.7,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Entry",67400,66300,FALSE
+52,"Bachelor",14.5,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",96900,92100,FALSE
+39,"Master",0.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",76900,68200,FALSE
+31,"Master",10.5,"Female","Female","White","Not Hispanic or Latino",FALSE,"Sales","Director",132900,135300,FALSE
+54,"Bachelor",11.1,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",71000,65600,FALSE
+61,"Master",3.5,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Director",120800,121900,FALSE
+41,"Bachelor",10.2,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Administrative","Entry",69100,60200,FALSE
+58,"Bachelor",37.2,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Mid",113200,114800,FALSE
+27,"Bachelor",8.1,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Mid",80300,82800,FALSE
+50,"Master",8.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Director",136100,131700,FALSE
+25,"Master",5,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Entry",68200,67300,FALSE
+48,"Master",5.6,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Director",125900,132500,FALSE
+30,"Bachelor",9,"Did not disclose","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Entry",49300,46700,FALSE
+61,"PhD",12.9,"Did not disclose","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Director",141300,139200,FALSE
+44,"PhD",17.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Entry",92200,100600,FALSE
+47,"Master",14.9,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Mid",101400,101900,FALSE
+33,"Bachelor",0.1,"Female","Female","Asian","Not Hispanic or Latino",TRUE,"Software","Entry",57000,58400,FALSE
+31,"PhD",2.2,"Female","Female","White","Hispanic or Latino",FALSE,"Sales","Entry",75100,72000,FALSE
+64,"Bachelor",27.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Entry",84900,78900,FALSE
+44,"Bachelor",0.2,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Director",103400,93400,FALSE
+48,"Master",23.5,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Sales","Mid",121100,123700,FALSE
+55,"Master",20.6,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",144700,162000,FALSE
+37,"Master",1.5,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Entry",61400,63300,FALSE
+46,"Master",22.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Mid",102200,92400,FALSE
+49,"Master",7.5,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Executive",174300,206700,FALSE
+36,"Bachelor",7.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Director",109400,104900,FALSE
+59,"Bachelor",3.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Director",112600,115800,FALSE
+44,"PhD",17,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",148500,171000,FALSE
+40,"Bachelor",14,"Female","Female","White","Not Hispanic or Latino",FALSE,"Sales","Entry",65700,67500,FALSE
+31,"Master",10.1,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Entry",74600,73600,FALSE
+34,"Bachelor",7.7,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Mid",82300,79900,FALSE
+59,"Master",6.9,"Female","Female","White","Hispanic or Latino",FALSE,"HR","Director",127200,131100,FALSE
+22,"Master",3.4,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Mid",94400,107800,FALSE
+32,"Master",13.4,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Entry",71600,79600,FALSE
+47,"Master",12.5,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",103900,117500,FALSE
+31,"PhD",2.7,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Director",131300,137600,FALSE
+36,"Master",13.4,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Entry",73900,65400,FALSE
+38,"Bachelor",10.4,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Mid",76900,75700,FALSE
+29,"Master",3.4,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Administrative","Entry",66000,63000,FALSE
+57,"Master",37.7,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Mid",137000,145300,FALSE
+27,"Bachelor",5.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Entry",57600,56200,FALSE
+31,"Master",7.7,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",93600,90800,FALSE
+48,"Bachelor",2.9,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Mid",79900,88200,FALSE
+41,"Master",11.2,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Administrative","Entry",75500,71800,FALSE
+46,"Bachelor",2.6,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Director",105800,99500,FALSE
+45,"Master",3.5,"Male","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",70900,76900,FALSE
+37,"Master",5.8,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"HR","Mid",93500,95900,FALSE
+65,"Bachelor",5.8,"Did not disclose","Female","White","Hispanic or Latino",FALSE,"Marketing","Director",125100,140500,FALSE
+37,"Master",12.2,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",97800,90500,FALSE
+24,"Bachelor",1.8,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Mid",65700,63100,FALSE
+53,"Bachelor",30.3,"Male","Male","Asian","Hispanic or Latino",FALSE,"Administrative","Entry",86600,93700,FALSE
+42,"Bachelor",8,"Female","Female","White","Not Hispanic or Latino",FALSE,"Sales","Director",114400,116200,FALSE
+60,"Bachelor",8.9,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Mid",91400,89400,FALSE
+24,"Bachelor",5.7,"Female","Female","White","Not Hispanic or Latino",FALSE,"Sales","Director",107200,116800,FALSE
+31,"Bachelor",3.7,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Executive",152700,238400,TRUE
+42,"Master",6.9,"Did not disclose","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Mid",95200,95000,FALSE
+63,"Bachelor",13.3,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",TRUE,"Sales","Mid",97900,95700,FALSE
+28,"Bachelor",1.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Mid",81700,90800,FALSE
+40,"Master",18.6,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Entry",90300,97900,FALSE
+50,"Master",24.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",95700,96800,FALSE
+63,"Bachelor",33.5,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Administrative","Executive",194400,193900,FALSE
+45,"Bachelor",15.2,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Director",117100,114900,FALSE
+50,"Bachelor",9.6,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Sales","Executive",164700,153400,FALSE
+51,"Master",18,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Entry",78900,77900,FALSE
+64,"Master",17.8,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",85700,83800,FALSE
+56,"Master",35.4,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Director",171000,163300,FALSE
+63,"Bachelor",37.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Mid",120600,112400,FALSE
+55,"Bachelor",31.3,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Administrative","Mid",116200,114800,FALSE
+60,"Bachelor",27.4,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Director",142600,161100,FALSE
+42,"Bachelor",21.1,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Mid",96400,103300,FALSE
+64,"Master",44.6,"Did not disclose","Male","White","Hispanic or Latino",FALSE,"Sales","Entry",117200,117800,FALSE
+64,"Bachelor",18.6,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Entry",81600,78600,FALSE
+47,"Bachelor",9.1,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Executive",169600,165100,FALSE
+54,"Bachelor",15.6,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",95400,87600,FALSE
+27,"PhD",3.6,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Entry",72400,72700,FALSE
+44,"Master",12.1,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Entry",77300,73800,FALSE
+63,"PhD",14,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Director",138500,136700,FALSE
+62,"Master",9,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Director",126500,124300,FALSE
+65,"Bachelor",18.9,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",136400,140100,FALSE
+39,"PhD",2.5,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Executive",168500,190400,FALSE
+42,"Bachelor",22.9,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",78300,77600,FALSE
+54,"Bachelor",23.5,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",144500,142700,FALSE
+32,"Bachelor",5.6,"Female","Female","White","Not Hispanic or Latino",FALSE,"Administrative","Mid",72600,69600,FALSE
+61,"PhD",18.4,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Marketing","Director",151200,149900,FALSE
+35,"Master",0.9,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Entry",61400,59300,FALSE
+23,"Bachelor",2.5,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",55200,56700,FALSE
+59,"Master",5.4,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Software","Mid",92800,92600,FALSE
+56,"Bachelor",33.5,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Director",141600,144700,FALSE
+49,"Master",29.3,"Male","Male","Asian","Hispanic or Latino",FALSE,"HR","Director",150600,162800,FALSE
+37,"Bachelor",4.7,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",75200,73000,FALSE
+37,"PhD",4.1,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Executive",179000,180600,FALSE
+29,"PhD",10.7,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",108000,106200,FALSE
+59,"Master",6.7,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",125700,124700,FALSE
+59,"Bachelor",13.5,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Mid",87100,87300,FALSE
+29,"Master",7.7,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Executive",175700,179500,FALSE
+52,"PhD",26.6,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Executive",202700,206800,FALSE
+58,"Bachelor",12.2,"Male","Male","White","Hispanic or Latino",FALSE,"Administrative","Mid",82100,88100,FALSE
+44,"Bachelor",3.3,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Executive",150000,158200,FALSE
+62,"Bachelor",41.3,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",121800,117300,FALSE
+31,"Master",7.9,"Female","Female","Asian","Hispanic or Latino",FALSE,"Software","Entry",76300,76800,FALSE
+32,"Bachelor",5.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",54900,51400,FALSE
+48,"PhD",6.7,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Director",133600,154200,FALSE
+44,"Master",23,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Marketing","Entry",91800,92100,FALSE
+54,"Bachelor",8.3,"Female","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Director",117600,113300,FALSE
+43,"PhD",11,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Software","Entry",93900,88100,FALSE
+36,"Bachelor",1.9,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Mid",71500,67000,FALSE
+25,"PhD",0.7,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",89800,89800,FALSE
+60,"Master",20.7,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Marketing","Executive",193800,213200,FALSE
+64,"Bachelor",30.7,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Mid",114900,117700,FALSE
+31,"Bachelor",10.1,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",81700,78800,FALSE
+29,"Bachelor",0.3,"Female","Male","Asian","Not Hispanic or Latino",FALSE,"HR","Director",102800,99800,FALSE
+52,"Master",14.7,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Entry",81800,75800,FALSE
+49,"PhD",11.4,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Director",141100,134900,FALSE
+56,"Bachelor",15,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Mid",91600,92500,FALSE
+41,"Bachelor",0.2,"Male","Male","Asian","Hispanic or Latino",FALSE,"HR","Executive",147400,156700,FALSE
+29,"Bachelor",3.7,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Entry",50500,56400,FALSE
+53,"Bachelor",26.3,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Executive",182800,179300,FALSE
+24,"Bachelor",4.5,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Entry",57300,60100,FALSE
+62,"Master",41.8,"Did not disclose","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Entry",111900,103700,FALSE
+32,"Bachelor",11.9,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"HR","Director",121100,122000,FALSE
+34,"PhD",7.8,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Director",138500,141400,FALSE
+60,"Bachelor",0.6,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Executive",148400,153400,FALSE
+39,"PhD",14,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",89900,84600,FALSE
+60,"Bachelor",12.9,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",173000,167800,FALSE
+42,"Master",12.6,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",84400,81200,FALSE
+26,"Master",6.5,"Male","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",68400,70800,FALSE
+52,"Master",31.6,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Director",154400,167700,FALSE
+41,"Master",21.6,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Director",131900,133900,FALSE
+39,"Master",1.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Mid",77200,75300,FALSE
+60,"Bachelor",30.2,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",TRUE,"Administrative","Director",146200,142900,FALSE
+24,"Bachelor",0,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",48200,48800,FALSE
+29,"Master",4.9,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",TRUE,"Sales","Entry",70300,66600,FALSE
+40,"Bachelor",14.7,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Mid",98400,92300,FALSE
+31,"Bachelor",9.5,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"HR","Mid",88300,87000,FALSE
+36,"Master",14.6,"Male","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Executive",174600,202900,FALSE
+33,"Bachelor",8.8,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Mid",87000,88700,FALSE
+56,"Bachelor",3.8,"Did not disclose","Male","Asian","Not Hispanic or Latino",FALSE,"Sales","Entry",55200,58800,FALSE
+53,"Master",24.5,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Mid",121000,114400,FALSE
+63,"Master",24.5,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Executive",201200,218700,FALSE
+55,"Bachelor",25.1,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",83400,86200,FALSE
+61,"Bachelor",22.3,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Director",138100,146400,FALSE
+22,"Master",3.7,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",81100,90300,FALSE
+34,"Bachelor",2.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",51600,48000,FALSE
+28,"Bachelor",6.4,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Entry",51000,46000,FALSE
+32,"Master",6.1,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",68500,63700,FALSE
+32,"Bachelor",4.8,"Female","Female","Asian","Hispanic or Latino",FALSE,"HR","Entry",51100,49300,FALSE
+34,"Bachelor",3.5,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",74200,70900,FALSE
+58,"Bachelor",33.9,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Director",144900,142400,FALSE
+55,"PhD",14.9,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Entry",94300,95400,FALSE
+36,"Bachelor",3.8,"Female","Female","White","Hispanic or Latino",FALSE,"Software","Executive",147900,147500,FALSE
+58,"Master",21.6,"Female","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",111200,109000,FALSE
+35,"Master",6.5,"Male","Male","White","Not Hispanic or Latino",FALSE,"Marketing","Executive",165500,187100,FALSE
+58,"Master",11,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Executive",182600,180200,FALSE
+47,"Master",0.2,"Male","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",70000,75300,FALSE
+49,"Master",19.6,"Male","Male","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",185200,206600,FALSE
+39,"Bachelor",12.1,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Director",120500,115800,FALSE
+38,"Bachelor",15.1,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",73400,37200,TRUE
+60,"Bachelor",30.9,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",110300,100900,FALSE
+55,"Bachelor",25.8,"Female","Female","White","Hispanic or Latino",TRUE,"Software","Executive",180600,179800,FALSE
+33,"Bachelor",0.6,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Director",104600,111100,FALSE
+51,"Master",19.9,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Director",144300,158000,FALSE
+56,"Master",37.8,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Entry",109400,97700,FALSE
+41,"Master",20.9,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",111600,115900,FALSE
+47,"Master",5.1,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Sales","Entry",69900,72400,FALSE
+46,"Master",2,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",63300,55100,FALSE
+29,"PhD",1.1,"Male","Male","Asian","Hispanic or Latino",FALSE,"Software","Entry",63100,68600,FALSE
+41,"Bachelor",15,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Entry",71400,72900,FALSE
+49,"Master",11.5,"Male","Male","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",81000,81900,FALSE
+54,"PhD",33.6,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Entry",122300,130800,FALSE
+42,"Bachelor",14.8,"Male","Male","White","Hispanic or Latino",FALSE,"Administrative","Entry",67100,75300,FALSE
+55,"Bachelor",17.7,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Mid",105900,105400,FALSE
+26,"Bachelor",2.6,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Mid",77500,88800,FALSE
+63,"Bachelor",14.3,"Female","Female","Asian","Hispanic or Latino",FALSE,"Software","Director",131000,130900,FALSE
+33,"PhD",10.4,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",139400,137900,FALSE
+24,"PhD",2.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",113100,113600,FALSE
+39,"Bachelor",3.9,"Did not disclose","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Mid",82500,83900,FALSE
+22,"Master",0.7,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Director",108800,108400,FALSE
+29,"Master",8.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Director",117900,129900,FALSE
+61,"Master",2.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",120500,122800,FALSE
+51,"Master",18.2,"Female","Female","Asian","Hispanic or Latino",FALSE,"Administrative","Mid",118100,124600,FALSE
+41,"Master",3,"Male","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",54700,59600,FALSE
+55,"Master",35.9,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Executive",203000,212900,FALSE
+42,"Bachelor",23,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",137200,137800,FALSE
+40,"Bachelor",14.3,"Did not disclose","Female","Black or African American","Hispanic or Latino",FALSE,"Sales","Entry",64900,63600,FALSE
+64,"Bachelor",42.7,"Male","Male","Asian","Hispanic or Latino",FALSE,"HR","Executive",210100,237900,FALSE
+39,"Bachelor",10.1,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Mid",91100,88300,FALSE
+61,"Bachelor",23.8,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",115600,112100,FALSE
+45,"Master",15,"Male","Male","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",183300,207400,FALSE
+63,"Bachelor",0.3,"Male","Male","White","Not Hispanic or Latino",FALSE,"Software","Mid",69400,72200,FALSE
+50,"Master",22.7,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Mid",104300,108800,FALSE
+55,"Bachelor",3.3,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Entry",45700,44300,FALSE
+43,"Master",5.2,"Female","Female","Asian","Hispanic or Latino",FALSE,"Software","Entry",62900,59600,FALSE
+25,"Master",0.2,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"HR","Mid",71500,75500,FALSE
+44,"PhD",4.1,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Entry",78900,74300,FALSE
+38,"Bachelor",0.3,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Mid",66600,73800,FALSE
+65,"Bachelor",37.8,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",90400,83900,FALSE
+41,"Bachelor",11.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Executive",155600,153400,FALSE
+60,"Bachelor",22.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"Sales","Mid",101200,110100,FALSE
+30,"Master",1.3,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",60500,57700,FALSE
+40,"Master",1.5,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",110300,104300,FALSE
+42,"Bachelor",0.2,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Entry",57900,50800,FALSE
+64,"Bachelor",7.7,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Mid",86100,82700,FALSE
+64,"Master",27.1,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",103800,105600,FALSE
+65,"Master",25.4,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Director",153900,158400,FALSE
+38,"Bachelor",13.8,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",123600,138600,FALSE
+55,"Bachelor",32.6,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Executive",189600,207300,FALSE
+28,"Bachelor",1.9,"Female","Female","Asian","Hispanic or Latino",FALSE,"Marketing","Mid",72900,70800,FALSE
+25,"Bachelor",4,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Marketing","Entry",45800,44600,FALSE
+22,"Bachelor",3.9,"Did not disclose","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",77700,78500,FALSE
+49,"Bachelor",15.4,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Executive",162500,82100,TRUE
+38,"Bachelor",9.2,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"HR","Mid",86300,84200,FALSE
+57,"Bachelor",12.6,"Male","Male","White","Not Hispanic or Latino",FALSE,"Sales","Director",120000,126300,FALSE
+55,"Bachelor",12.8,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Executive",157900,160800,FALSE
+48,"Bachelor",7,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Entry",57300,61400,FALSE
+50,"PhD",13.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Director",148200,150400,FALSE
+47,"Bachelor",7.6,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Entry",57300,54000,FALSE
+42,"Bachelor",8.8,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Mid",87700,88200,FALSE
+61,"Master",28.9,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Administrative","Entry",95900,90900,FALSE
+56,"PhD",19.1,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Executive",198700,189500,FALSE
+34,"Master",4.5,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Entry",57900,52400,FALSE
+55,"PhD",1.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Executive",174300,189800,FALSE
+57,"Bachelor",22.4,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Marketing","Entry",76000,69900,FALSE
+62,"Bachelor",22.9,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Mid",102000,112400,FALSE
+64,"Bachelor",17.6,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Sales","Director",127600,135100,FALSE
+49,"Master",16.6,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Marketing","Director",138200,149000,FALSE
+31,"Master",7.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"HR","Entry",65900,62000,FALSE
+53,"Bachelor",33.6,"Did not disclose","Female","Asian","Not Hispanic or Latino",FALSE,"HR","Executive",194400,213600,FALSE
+48,"Master",25.4,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Director",142600,150300,FALSE
+54,"Master",5.8,"Did not disclose","Female","Black or African American","Hispanic or Latino",FALSE,"Administrative","Executive",172000,181600,FALSE
+22,"Master",3.2,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Director",112600,104400,FALSE
+35,"Bachelor",11.5,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Director",125300,131600,FALSE
+53,"Master",16.9,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Mid",107500,118800,FALSE
+49,"Bachelor",15.4,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",73900,70200,FALSE
+64,"Bachelor",7.4,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Executive",165900,177500,FALSE
+53,"Master",13,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Director",130700,137000,FALSE
+62,"Bachelor",31.6,"Did not disclose","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",193200,204700,FALSE
+51,"Bachelor",22.2,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Mid",97400,93500,FALSE
+58,"Bachelor",22.2,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",85900,83600,FALSE
+55,"Master",35.1,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"HR","Entry",111500,110100,FALSE
+62,"Master",6.9,"Female","Female","Asian","Hispanic or Latino",FALSE,"Sales","Director",127400,134800,FALSE
+56,"Bachelor",3.6,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",153900,155900,FALSE
+45,"Bachelor",22.7,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",93900,99800,FALSE
+65,"Bachelor",36.7,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Director",153600,144700,FALSE
+55,"Master",30,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Entry",105000,90500,FALSE
+45,"Bachelor",9.4,"Female","Female","White","Not Hispanic or Latino",FALSE,"Marketing","Executive",155000,157000,FALSE
+49,"Master",7.6,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",76200,79000,FALSE
+39,"PhD",2,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",80900,78600,FALSE
+51,"Bachelor",32.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Director",153800,150300,FALSE
+43,"Bachelor",8.7,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Mid",79900,73100,FALSE
+47,"Bachelor",0,"Female","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Mid",76300,73500,FALSE
+41,"Bachelor",6.2,"Female","Female","Asian","Hispanic or Latino",FALSE,"HR","Mid",69900,72900,FALSE
+52,"PhD",25.2,"Female","Female","Black or African American","Hispanic or Latino",TRUE,"HR","Mid",131200,117500,FALSE
+61,"Bachelor",9.6,"Did not disclose","Female","Asian","Not Hispanic or Latino",FALSE,"Software","Director",122200,130800,FALSE
+51,"Bachelor",10.4,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Entry",71100,76300,FALSE
+29,"Bachelor",7.7,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Mid",74400,80500,FALSE
+46,"Bachelor",16.1,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Entry",73200,70700,FALSE
+59,"Bachelor",31.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Director",144900,132700,FALSE
+56,"Master",5.6,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Entry",73900,63600,FALSE
+22,"Bachelor",1.8,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",77000,73300,FALSE
+51,"Bachelor",13.3,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Executive",166400,184200,FALSE
+25,"Bachelor",5.5,"Female","Female","Asian","Hispanic or Latino",FALSE,"Software","Entry",62000,61800,FALSE
+49,"Bachelor",8.4,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Director",110800,104600,FALSE
+62,"Master",42.7,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Director",177300,177400,FALSE
+54,"Bachelor",24.9,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Executive",186300,197200,FALSE
+64,"Master",30.7,"Male","Male","White","Not Hispanic or Latino",FALSE,"Administrative","Entry",95500,106400,FALSE
+27,"Master",6.1,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Mid",88100,77300,FALSE
+41,"Bachelor",15.7,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Executive",161000,187400,FALSE
+35,"Bachelor",13,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Mid",92700,88800,FALSE
+30,"Bachelor",7.7,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Entry",66000,67900,FALSE
+49,"Master",20.3,"Female","Female","Asian","Hispanic or Latino",FALSE,"Marketing","Mid",96000,91800,FALSE
+52,"Bachelor",15.9,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Entry",82400,85100,FALSE
+45,"Bachelor",12.6,"Did not disclose","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Director",119800,111500,FALSE
+27,"Master",5.1,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Director",119200,118800,FALSE
+65,"Bachelor",21.7,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",97100,91800,FALSE
+43,"Bachelor",8.6,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Mid",84600,78500,FALSE
+32,"Bachelor",13.6,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Entry",61700,66000,FALSE
+30,"Master",1.1,"Male","Male","White","Hispanic or Latino",FALSE,"Sales","Director",119400,130200,FALSE
+39,"Master",16.9,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Software","Mid",98300,96100,FALSE
+64,"Bachelor",5.5,"Female","Female","Asian","Hispanic or Latino",FALSE,"Software","Director",109200,107200,FALSE
+40,"Bachelor",10.5,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Entry",65100,73000,FALSE
+54,"Master",1.5,"Male","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",89100,90800,FALSE
+64,"Master",42.9,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Executive",214800,225600,FALSE
+61,"Master",8.8,"Male","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Executive",169500,172500,FALSE
+32,"Bachelor",9.4,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Entry",61900,58500,FALSE
+54,"Master",23.1,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Mid",112700,112400,FALSE
+59,"PhD",18.9,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Entry",100300,112100,FALSE
+55,"Master",17.1,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Software","Executive",184800,204000,FALSE
+58,"PhD",6.1,"Female","Female","White","Not Hispanic or Latino",FALSE,"Marketing","Director",147400,159000,FALSE
+22,"PhD",2.1,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Mid",96900,92500,FALSE
+51,"Master",21,"Female","Female","White","Not Hispanic or Latino",FALSE,"Administrative","Director",136900,144800,FALSE
+39,"Bachelor",9.9,"Female","Female","White","Hispanic or Latino",FALSE,"Marketing","Director",112600,116600,FALSE
+25,"Bachelor",4.9,"Female","Female","White","Hispanic or Latino",FALSE,"Sales","Executive",145800,146300,FALSE
+36,"PhD",1.7,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Entry",78900,84100,FALSE
+28,"Bachelor",2.6,"Female","Female","Asian","Hispanic or Latino",FALSE,"Marketing","Mid",69800,66000,FALSE
+35,"Bachelor",14.2,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",64100,64200,FALSE
+31,"Bachelor",2.1,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",50900,52600,FALSE
+56,"Bachelor",29,"Male","Male","White","Not Hispanic or Latino",FALSE,"Sales","Mid",107800,117300,FALSE
+28,"PhD",0.9,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Mid",96100,97300,FALSE
+26,"Bachelor",3.2,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Mid",70300,68200,FALSE
+45,"PhD",5.2,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Director",136300,141700,FALSE
+59,"Bachelor",18,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Administrative","Executive",182100,253700,TRUE
+26,"Bachelor",6.9,"Did not disclose","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Mid",76800,75800,FALSE
+42,"Bachelor",18.9,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",129000,121800,FALSE
+62,"Bachelor",29.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Director",137100,147500,FALSE
+56,"Bachelor",29.1,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Director",140300,151800,FALSE
+24,"Bachelor",1.1,"Male","Male","Asian","Hispanic or Latino",FALSE,"Administrative","Entry",45900,49900,FALSE
+30,"Bachelor",0,"Did not disclose","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",50700,45400,FALSE
+48,"Master",1.7,"Male","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Mid",89100,90300,FALSE
+50,"Bachelor",28.8,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Director",139700,139900,FALSE
+48,"Master",0.1,"Female","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Director",125500,134300,FALSE
+60,"Master",26,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Entry",95900,84500,FALSE
+63,"Master",7.9,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Director",129800,131900,FALSE
+38,"Bachelor",5.3,"Male","Male","White","Not Hispanic or Latino",FALSE,"Marketing","Entry",56200,59600,FALSE
+55,"Bachelor",25.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Entry",81700,81800,FALSE
+41,"PhD",4.8,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Director",138400,131000,FALSE
+47,"Master",3.4,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",124400,115700,FALSE
+33,"Master",10.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Mid",106000,102300,FALSE
+45,"Bachelor",16.7,"Did not disclose","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Mid",94600,91800,FALSE
+45,"Bachelor",26.2,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Mid",106900,110800,FALSE
+59,"Master",39.3,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",167800,166300,FALSE
+51,"Bachelor",28.1,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",118200,111700,FALSE
+43,"PhD",0.4,"Male","Male","White","Hispanic or Latino",FALSE,"Sales","Director",126600,137600,FALSE
+51,"Master",10.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Director",130500,141100,FALSE
+31,"Bachelor",5.9,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Mid",78000,74000,FALSE
+54,"Master",8.2,"Female","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Director",123200,129300,FALSE
+63,"Master",7.4,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Mid",99100,93600,FALSE
+28,"Bachelor",1.6,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Sales","Entry",43700,38500,FALSE
+46,"Bachelor",23.3,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Director",127600,128100,FALSE
+45,"Bachelor",21.6,"Did not disclose","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",77400,79500,FALSE
+23,"Master",2.5,"Female","Female","White","Not Hispanic or Latino",FALSE,"Sales","Entry",68900,70600,FALSE
+57,"Bachelor",10.9,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Entry",69700,66600,FALSE
+29,"Bachelor",7,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Mid",87800,84700,FALSE
+35,"Bachelor",11,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Entry",57900,56200,FALSE
+38,"PhD",11.4,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Director",147500,158000,FALSE
+58,"Master",24.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Director",156100,163000,FALSE
+38,"PhD",11.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Mid",106800,104800,FALSE
+37,"Bachelor",1.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",94200,109000,FALSE
+53,"Master",22,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Marketing","Entry",89600,77900,FALSE
+46,"Bachelor",16.8,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Entry",74400,72400,FALSE
+59,"Bachelor",6.8,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Mid",86700,85600,FALSE
+24,"Bachelor",1.4,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Entry",52000,53200,FALSE
+35,"Master",15.3,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Entry",72400,77700,FALSE
+30,"Bachelor",3.2,"Female","Female","White","Not Hispanic or Latino",FALSE,"Marketing","Executive",146600,154400,FALSE
+65,"Bachelor",44,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",114100,100500,FALSE
+30,"Bachelor",9.7,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Entry",60100,54600,FALSE
+45,"Bachelor",11.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Entry",64900,61200,FALSE
+24,"Bachelor",0.8,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Entry",49200,46800,FALSE
+57,"Master",16.7,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Executive",188600,197600,FALSE
+56,"Bachelor",36.6,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Mid",109400,111400,FALSE
+60,"Bachelor",1.4,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",145700,148100,FALSE
+54,"Bachelor",9.7,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"HR","Mid",91300,89900,FALSE
+58,"Bachelor",22.6,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Mid",112700,102100,FALSE
+43,"Master",11.7,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Director",129100,121800,FALSE
+25,"Bachelor",0.1,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Mid",67600,62700,FALSE
+50,"Bachelor",17.1,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Software","Executive",170400,179900,FALSE
+48,"Master",12.6,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Director",128100,128000,FALSE
+29,"Bachelor",5.2,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",147800,151000,FALSE
+65,"Master",3.2,"Female","Female","White","Not Hispanic or Latino",FALSE,"Sales","Executive",162600,182400,FALSE
+65,"Bachelor",9.1,"Female","Female","White","Hispanic or Latino",FALSE,"Software","Entry",68200,69400,FALSE
+33,"Master",3.2,"Female","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",65000,63300,FALSE
+30,"Bachelor",8.5,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Entry",53100,49600,FALSE
+45,"Bachelor",11.7,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",162200,157000,FALSE
+24,"Master",5.9,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Entry",68200,62800,FALSE
+24,"Master",4.2,"Did not disclose","Male","White","Not Hispanic or Latino",FALSE,"Marketing","Entry",59700,61700,FALSE
+47,"Master",14.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"Software","Entry",75600,80800,FALSE
+62,"Bachelor",40.5,"Female","Female","White","Not Hispanic or Latino",FALSE,"Marketing","Director",156700,168200,FALSE
+28,"Master",1.6,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Sales","Entry",64100,93200,TRUE
+48,"PhD",10,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",83900,82200,FALSE
+44,"Master",13,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Mid",92000,83200,FALSE
+65,"Bachelor",19.5,"Female","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",133800,143900,FALSE
+53,"Bachelor",14.2,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Mid",90000,82400,FALSE
+36,"Bachelor",7.4,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Director",119600,115700,FALSE
+41,"PhD",20.2,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Entry",1e+05,96600,FALSE
+56,"Bachelor",11.8,"Female","Female","White","Not Hispanic or Latino",FALSE,"Sales","Director",125700,136800,FALSE
+48,"Bachelor",5.4,"Male","Male","White","Hispanic or Latino",FALSE,"Software","Director",113100,128600,FALSE
+40,"Master",8.3,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",71600,66100,FALSE
+23,"Bachelor",1.9,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Director",107600,114400,FALSE
+43,"Bachelor",19.1,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",76800,70900,FALSE
+58,"Bachelor",33.9,"Female","Female","Asian","Hispanic or Latino",FALSE,"Administrative","Mid",117000,115000,FALSE
+62,"Master",42.3,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Director",176000,173800,FALSE
+54,"Bachelor",21.3,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Executive",183700,189200,FALSE
+25,"Bachelor",6.6,"Female","Female","Asian","Hispanic or Latino",FALSE,"Sales","Mid",79400,79000,FALSE
+39,"Master",18.5,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Director",141700,152800,FALSE
+58,"Bachelor",18.2,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Sales","Entry",71100,71400,FALSE
+56,"Master",1.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",71300,66700,FALSE
+63,"Bachelor",32.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"Administrative","Director",147700,153600,FALSE
+46,"Bachelor",6.5,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Entry",65800,61000,FALSE
+60,"Bachelor",11.7,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"HR","Director",121500,126500,FALSE
+35,"Bachelor",4.1,"Male","Male","Asian","Hispanic or Latino",FALSE,"Administrative","Mid",77000,78500,FALSE
+48,"Bachelor",2,"Female","Female","Asian","Hispanic or Latino",FALSE,"Marketing","Entry",47500,48800,FALSE
+31,"Master",5.9,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Entry",71300,73500,FALSE
+44,"Bachelor",18.1,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",98100,86900,FALSE
+31,"Master",1.4,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Mid",85300,89000,FALSE
+42,"Bachelor",15.4,"Female","Female","Asian","Hispanic or Latino",TRUE,"HR","Executive",168000,178900,FALSE
+62,"Bachelor",12.6,"Male","Male","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",68600,70000,FALSE
+60,"Bachelor",39.7,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",124700,119900,FALSE
+27,"Master",0.3,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Mid",87200,83500,FALSE
+49,"Bachelor",13.4,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Mid",95600,90700,FALSE
+29,"Master",8.1,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Sales","Entry",65300,63100,FALSE
+52,"Bachelor",1.5,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Mid",71500,69700,FALSE
+47,"Master",9.8,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Entry",77900,78500,FALSE
+45,"Bachelor",16.5,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",65000,66700,FALSE
+58,"Bachelor",23.7,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"HR","Entry",81800,78900,FALSE
+40,"Bachelor",1.4,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Mid",76500,76100,FALSE
+41,"Bachelor",10.5,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Sales","Director",118300,121800,FALSE
+32,"Master",1.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Entry",64200,67200,FALSE
+48,"Master",21.7,"Female","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",113000,118000,FALSE
+28,"Master",3.2,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",66000,67500,FALSE
+63,"Bachelor",29.7,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"HR","Entry",96000,98100,FALSE
+65,"PhD",15.3,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Entry",98900,91700,FALSE
+25,"Master",0.2,"Female","Female","White","Not Hispanic or Latino",FALSE,"Administrative","Entry",61400,63600,FALSE
+52,"Bachelor",2.9,"Did not disclose","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",57000,55600,FALSE
+56,"PhD",3.8,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Entry",89300,91800,FALSE
+22,"PhD",3.4,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Entry",82500,92400,FALSE
+26,"Bachelor",1.4,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Director",98400,104400,FALSE
+38,"Bachelor",12.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",74400,77100,FALSE
+64,"PhD",1.5,"Male","Male","White","Not Hispanic or Latino",FALSE,"Sales","Executive",184700,204600,FALSE
+22,"Bachelor",0.7,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Mid",69200,68600,FALSE
+45,"PhD",0.4,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Software","Entry",71000,64700,FALSE
+54,"Bachelor",7.2,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Director",115800,119600,FALSE
+39,"Bachelor",17.6,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Entry",80800,76800,FALSE
+24,"Bachelor",0.7,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Entry",49100,43200,FALSE
+26,"Bachelor",3.7,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Mid",71600,71700,FALSE
+60,"Master",26.8,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Executive",198200,212100,FALSE
+27,"Bachelor",4,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Administrative","Mid",72400,75600,FALSE
+37,"Bachelor",15.4,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Director",118600,108800,FALSE
+34,"Bachelor",6.1,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Director",107700,109500,FALSE
+54,"Master",11.7,"Male","Male","White","Hispanic or Latino",FALSE,"Marketing","Executive",183500,212800,FALSE
+31,"Master",1.9,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Marketing","Executive",156300,170400,FALSE
+35,"Bachelor",14.4,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",62800,60000,FALSE
+63,"Bachelor",31.5,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Mid",125700,119900,FALSE
+55,"Master",13.9,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",TRUE,"HR","Executive",180900,177900,FALSE
+37,"Bachelor",11.8,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Entry",64700,62800,FALSE
+62,"Bachelor",26.5,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Mid",106200,101500,FALSE
+38,"Bachelor",9.4,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",58500,54000,FALSE
+23,"PhD",4.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",71600,73300,FALSE
+36,"Bachelor",11.8,"Female","Female","White","Not Hispanic or Latino",FALSE,"Administrative","Entry",67600,104200,TRUE
+44,"Master",5.7,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Mid",98300,88200,FALSE
+48,"Bachelor",25.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Director",136500,126200,FALSE
+61,"Master",23.4,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Director",153000,139500,FALSE
+24,"PhD",0.4,"Female","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",97000,99400,FALSE
+55,"Bachelor",26,"Did not disclose","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Entry",82900,73900,FALSE
+24,"Bachelor",4.5,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Entry",45900,47600,FALSE
+64,"Master",15.5,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Director",144600,154000,FALSE
+58,"Bachelor",33.4,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Executive",186700,191000,FALSE
+43,"Bachelor",14,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Entry",70700,74000,FALSE
+54,"Master",15.8,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Mid",106100,101300,FALSE
+24,"Bachelor",3.9,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Executive",148100,167400,FALSE
+35,"Master",6.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",64900,57900,FALSE
+59,"Bachelor",36.2,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Mid",115100,110900,FALSE
+37,"Bachelor",13.3,"Did not disclose","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Director",116800,118400,FALSE
+31,"Bachelor",10.7,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Entry",58700,53900,FALSE
+48,"Master",2.8,"Did not disclose","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",92500,85300,FALSE
+29,"Master",3.8,"Female","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",91500,87500,FALSE
+44,"Bachelor",15.6,"Male","Male","White","Hispanic or Latino",FALSE,"Sales","Mid",92100,96500,FALSE
+30,"Master",8.7,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Mid",104000,93900,FALSE
+56,"Master",20.6,"Female","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",109700,114200,FALSE
+55,"Master",34.8,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Entry",102300,87900,FALSE
+59,"Master",27.2,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Executive",197500,208900,FALSE
+55,"PhD",9.8,"Female","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Entry",94800,124800,TRUE
+51,"Master",16.7,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Mid",102900,101300,FALSE
+46,"PhD",25.8,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",208100,104200,TRUE
+51,"Bachelor",16.6,"Male","Female","Black or African American","Hispanic or Latino",FALSE,"HR","Mid",97200,92500,FALSE
+30,"Bachelor",1,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"HR","Director",98500,100400,FALSE
+58,"Bachelor",14.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",129300,132100,FALSE
+38,"Bachelor",3.7,"Female","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",73900,71100,FALSE
+65,"Bachelor",33.4,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Mid",117300,109200,FALSE
+41,"Bachelor",12.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Marketing","Director",120100,126800,FALSE
+57,"Bachelor",8.2,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",125900,123300,FALSE
+59,"Master",1.8,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Entry",60900,57000,FALSE
+55,"PhD",30,"Female","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Mid",131300,129500,FALSE
+24,"Bachelor",3.8,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Entry",43500,44300,FALSE
+38,"Bachelor",3,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Entry",48300,46100,FALSE
+45,"Bachelor",0.4,"Female","Female","White","Hispanic or Latino",FALSE,"Marketing","Entry",50900,48300,FALSE
+32,"Bachelor",8.5,"Did not disclose","Female","White","Hispanic or Latino",FALSE,"Marketing","Entry",54300,53900,FALSE
+29,"Master",2.5,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Marketing","Director",112000,108900,FALSE
+60,"Master",22.4,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Director",153000,171700,FALSE
+41,"Bachelor",3.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Director",106300,95000,FALSE
+49,"Master",30.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"HR","Director",154500,168000,FALSE
+44,"Master",21.4,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Director",143400,153700,FALSE
+54,"Master",18,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Entry",78400,80600,FALSE
+40,"PhD",3,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",64500,58200,FALSE
+37,"PhD",1.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Sales","Entry",80300,77000,FALSE
+61,"PhD",38.8,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Entry",117200,116900,FALSE
+31,"Bachelor",3.4,"Female","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",78300,80000,FALSE
+31,"PhD",2.7,"Male","Male","White","Hispanic or Latino",FALSE,"Administrative","Entry",77500,85900,FALSE
+40,"PhD",4.9,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Software","Executive",179200,187300,FALSE
+34,"PhD",5.9,"Female","Male","Black or African American","Not Hispanic or Latino",FALSE,"HR","Entry",80200,69800,FALSE
+44,"Master",20.7,"Female","Female","Asian","Not Hispanic or Latino",TRUE,"Software","Executive",192600,190600,FALSE
+65,"Bachelor",9.6,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Software","Mid",88200,88700,FALSE
+61,"Bachelor",3.8,"Male","Male","White","Not Hispanic or Latino",FALSE,"Software","Director",113800,119800,FALSE
+59,"Bachelor",35.2,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Director",148600,167400,FALSE
+60,"Bachelor",11.5,"Did not disclose","Male","White","Not Hispanic or Latino",FALSE,"HR","Director",123700,129000,FALSE
+60,"PhD",3.9,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Marketing","Entry",81900,70400,FALSE
+58,"Master",33.5,"Female","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",125400,122100,FALSE
+22,"Master",3.1,"Male","Male","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",70000,72500,FALSE
+64,"Bachelor",15.3,"Male","Male","Asian","Hispanic or Latino",FALSE,"Software","Mid",99500,111500,FALSE
+55,"Master",30.9,"Did not disclose","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Director",148300,147600,FALSE
+44,"Bachelor",15.5,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Executive",162200,157100,FALSE
+63,"Master",15.9,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Entry",86000,90000,FALSE
+59,"PhD",27,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Entry",107200,111800,FALSE
+57,"Master",3.8,"Female","Female","Asian","Not Hispanic or Latino",TRUE,"Software","Executive",166600,169000,FALSE
+33,"Master",7.4,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Director",128400,117200,FALSE
+27,"PhD",6.9,"Female","Male","Black or African American","Hispanic or Latino",FALSE,"HR","Executive",176500,182600,FALSE
+38,"Bachelor",13.6,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Director",117600,128100,FALSE
+22,"Bachelor",0.7,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",146200,154500,FALSE
+64,"Bachelor",17.5,"Female","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",91800,92100,FALSE
+41,"Bachelor",4.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Mid",75200,80000,FALSE
+47,"Bachelor",24.8,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Director",136300,157500,FALSE
+40,"Bachelor",5.4,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Entry",54200,55800,FALSE
+58,"Bachelor",38.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Director",150100,146800,FALSE
+24,"Bachelor",1.1,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",67300,65000,FALSE
+40,"Master",2.5,"Did not disclose","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Mid",82900,78200,FALSE
+41,"Bachelor",21.9,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Director",130300,117300,FALSE
+52,"Master",32.4,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Executive",202200,204400,FALSE
+35,"PhD",12.4,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",90700,80700,FALSE
+55,"Bachelor",2,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Director",112800,105700,FALSE
+54,"Bachelor",22.8,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",100900,111400,FALSE
+43,"Bachelor",16.7,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"HR","Entry",60900,62600,FALSE
+28,"Master",2.8,"Female","Female","Asian","Hispanic or Latino",FALSE,"Software","Entry",65800,61300,FALSE
+59,"Bachelor",40.3,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"HR","Director",155900,163200,FALSE
+65,"PhD",40.1,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Software","Director",179800,179000,FALSE
+64,"Bachelor",18.5,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Administrative","Entry",82000,82200,FALSE
+31,"Bachelor",2,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Marketing","Director",96700,100900,FALSE
+51,"Master",13,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Director",134000,138300,FALSE
+46,"Master",11.7,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Executive",177400,209900,FALSE
+31,"Master",11.2,"Male","Female","Black or African American","Hispanic or Latino",FALSE,"Marketing","Entry",80600,82500,FALSE
+51,"Bachelor",28.5,"Female","Female","Asian","Hispanic or Latino",FALSE,"HR","Executive",196700,203800,FALSE
+48,"PhD",3.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Mid",110200,117400,FALSE
+40,"PhD",3.9,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Entry",79800,79100,FALSE
+63,"Bachelor",12.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Director",125900,64500,TRUE
+30,"Master",6.2,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Administrative","Director",129300,124700,FALSE
+43,"PhD",10.2,"Female","Female","White","Not Hispanic or Latino",FALSE,"Marketing","Director",138200,96300,TRUE
+48,"Master",6.6,"Female","Female","White","Hispanic or Latino",FALSE,"Administrative","Entry",70100,71300,FALSE
+29,"Master",6.6,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Administrative","Entry",61300,64400,FALSE
+40,"Bachelor",7.7,"Did not disclose","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Administrative","Director",106100,105100,FALSE
+28,"Bachelor",0.5,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Mid",67200,106000,TRUE
+47,"Bachelor",13.9,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Entry",60900,63000,FALSE
+37,"Bachelor",6.8,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Marketing","Director",111500,113600,FALSE
+29,"Bachelor",4.7,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Entry",60800,54500,FALSE
+44,"Bachelor",20.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"Software","Entry",69500,77900,FALSE
+42,"Bachelor",20,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Mid",86700,82700,FALSE
+37,"Bachelor",10.7,"Male","Male","White","Hispanic or Latino",FALSE,"HR","Executive",162100,185600,FALSE
+52,"Master",25,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Director",142700,141700,FALSE
+50,"Bachelor",11.9,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Director",112500,116600,FALSE
+64,"Bachelor",36.5,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"HR","Director",150700,137800,FALSE
+48,"Bachelor",17.2,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Mid",99600,112800,FALSE
+31,"Bachelor",10.4,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Marketing","Mid",77700,71600,FALSE
+41,"Bachelor",3.9,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Sales","Entry",52800,48300,FALSE
+39,"Bachelor",19.1,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Administrative","Director",126800,130400,FALSE
+37,"Bachelor",8.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Entry",60800,60700,FALSE
+29,"Bachelor",6.5,"Female","Female","Black or African American","Not Hispanic or Latino",FALSE,"Sales","Director",104900,96200,FALSE
+42,"Bachelor",2.5,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Mid",74700,73100,FALSE
+58,"Bachelor",29.7,"Male","Male","White","Hispanic or Latino",FALSE,"Sales","Executive",189800,224700,FALSE
+44,"Master",24.3,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Administrative","Director",149000,154000,FALSE
+23,"Master",1.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"Sales","Director",110200,114800,FALSE
+54,"Master",22.6,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",87500,79900,FALSE
+49,"Master",14.1,"Female","Female","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Entry",79100,73700,FALSE
+52,"Master",19.7,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Entry",83900,81200,FALSE
+49,"PhD",21.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"Administrative","Mid",136600,140500,FALSE
+63,"Master",0.9,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Entry",83000,79300,FALSE
+30,"Bachelor",4.4,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",75800,72800,FALSE
+54,"Bachelor",4.1,"Male","Male","White","Not Hispanic or Latino",FALSE,"Sales","Mid",74000,83500,FALSE
+38,"Master",7.1,"Female","Female","Asian","Hispanic or Latino",FALSE,"Administrative","Mid",97600,101900,FALSE
+27,"PhD",4.6,"Male","Male","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",128700,125100,FALSE
+33,"Bachelor",9.1,"Female","Female","Black or African American","Hispanic or Latino",TRUE,"Administrative","Director",108100,102300,FALSE
+40,"Bachelor",7.3,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Administrative","Mid",76500,76900,FALSE
+54,"Master",33.8,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",132200,136100,FALSE
+32,"Bachelor",10.9,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Finance/Accounting","Executive",152800,157900,FALSE
+49,"Master",2.5,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Marketing","Mid",81000,82600,FALSE
+48,"Master",25.5,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Software","Entry",91900,80400,FALSE
+37,"Master",6.1,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Sales","Director",122000,128600,FALSE
+35,"Master",2.3,"Male","Male","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",120600,132100,FALSE
+44,"Master",16.9,"Did not disclose","Female","White","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",90700,90800,FALSE
+58,"Bachelor",16.9,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Software","Executive",172700,190400,FALSE
+61,"Bachelor",26.9,"Female","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Software","Director",132600,125100,FALSE
+40,"Bachelor",21.3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"HR","Entry",77500,82900,FALSE
+65,"Master",3.7,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Executive",174700,187500,FALSE
+28,"Master",7.5,"Male","Male","Asian","Hispanic or Latino",FALSE,"Administrative","Mid",87700,90800,FALSE
+54,"PhD",8.3,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Mid",106300,109300,FALSE
+45,"Master",22.6,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",143000,88700,TRUE
+36,"Bachelor",2.4,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",59800,58600,FALSE
+29,"Master",2.3,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Sales","Entry",64700,60800,FALSE
+27,"Master",4.3,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Marketing","Mid",91100,87600,FALSE
+64,"Master",38.6,"Female","Female","White","Not Hispanic or Latino",FALSE,"HR","Executive",204300,217400,FALSE
+55,"Bachelor",33.5,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",TRUE,"Administrative","Director",152100,141300,FALSE
+54,"Bachelor",1.7,"Female","Male","Asian","Not Hispanic or Latino",FALSE,"Marketing","Entry",50300,50000,FALSE
+51,"Bachelor",16.5,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Administrative","Mid",94100,99100,FALSE
+58,"PhD",15.2,"Did not disclose","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Director",146600,151700,FALSE
+58,"Master",16.6,"Female","Female","American Indian or Alaska Native","Not Hispanic or Latino",FALSE,"Software","Director",136400,133400,FALSE
+64,"Master",12.6,"Male","Male","White","Not Hispanic or Latino",FALSE,"Administrative","Director",130800,139900,FALSE
+48,"Master",29.6,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Finance/Accounting","Director",156500,156700,FALSE
+48,"Bachelor",27.7,"Female","Female","Asian","Hispanic or Latino",FALSE,"Software","Mid",105900,99900,FALSE
+38,"Bachelor",5.4,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",73800,77500,FALSE
+38,"Bachelor",7.3,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Software","Entry",72600,69300,FALSE
+47,"Bachelor",15.8,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Software","Director",125700,121500,FALSE
+51,"Master",11.6,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Mid",103100,97700,FALSE
+48,"Master",11.1,"Male","Male","White","Hispanic or Latino",FALSE,"Finance/Accounting","Mid",92200,99600,FALSE
+40,"Master",5.1,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Director",124500,119500,FALSE
+34,"Bachelor",2.9,"Male","Male","Black or African American","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",109600,114600,FALSE
+39,"Master",11.3,"Male","Male","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",75500,76100,FALSE
+31,"PhD",9.5,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"Software","Executive",173600,188300,FALSE
+24,"Bachelor",4.2,"Male","Male","Asian","Hispanic or Latino",FALSE,"HR","Mid",80400,81900,FALSE
+49,"Bachelor",9.3,"Female","Female","American Indian or Alaska Native","Hispanic or Latino",FALSE,"Marketing","Entry",73300,64800,FALSE
+42,"Bachelor",1.4,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"Administrative","Mid",74700,69300,FALSE
+31,"PhD",10.4,"Female","Female","Black or African American","Hispanic or Latino",FALSE,"Finance/Accounting","Entry",83500,77600,FALSE
+54,"PhD",16.3,"Female","Female","White","Not Hispanic or Latino",FALSE,"Sales","Mid",120500,121700,FALSE
+32,"Bachelor",4.8,"Male","Male","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Administrative","Entry",62800,61300,FALSE
+34,"Bachelor",15,"Male","Male","American Indian or Alaska Native","Hispanic or Latino",FALSE,"HR","Entry",62200,58800,FALSE
+28,"Bachelor",4.4,"Male","Male","White","Not Hispanic or Latino",FALSE,"HR","Entry",57100,61200,FALSE
+61,"Master",14.1,"Female","Female","Asian","Hispanic or Latino",FALSE,"Finance/Accounting","Executive",172200,188200,FALSE
+57,"PhD",8.1,"Female","Female","Asian","Not Hispanic or Latino",FALSE,"Sales","Executive",181500,189100,FALSE
+35,"Master",3.3,"Male","Male","White","Not Hispanic or Latino",FALSE,"Finance/Accounting","Director",109200,114700,FALSE
+26,"Bachelor",3,"Male","Male","Asian","Not Hispanic or Latino",FALSE,"HR","Entry",51900,54300,FALSE
+41,"Master",16.7,"Did not disclose","Female","White","Not Hispanic or Latino",FALSE,"Sales","Executive",175400,196200,FALSE
+44,"PhD",16.8,"Male","Male","Asian","Hispanic or Latino",FALSE,"HR","Entry",90700,99200,FALSE
+40,"Master",16,"Male","Male","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Executive",174700,179700,FALSE
+24,"Bachelor",0.1,"Female","Female","Native Hawaiian or Pacific Islander","Not Hispanic or Latino",FALSE,"Sales","Entry",44200,41900,FALSE
+23,"Bachelor",0.4,"Did not disclose","Male","White","Hispanic or Latino",FALSE,"Marketing","Entry",46200,47600,FALSE
+59,"Bachelor",6.5,"Female","Female","White","Not Hispanic or Latino",FALSE,"Software","Entry",69900,71900,FALSE
+60,"Master",40.2,"Male","Male","Asian","Hispanic or Latino",FALSE,"HR","Mid",143500,161400,FALSE
+31,"Bachelor",8,"Female","Female","Native Hawaiian or Pacific Islander","Hispanic or Latino",FALSE,"HR","Mid",78900,74900,FALSE

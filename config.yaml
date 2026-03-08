@@ -1,0 +1,18 @@
+# Project Paths
+data_paths:
+  raw: "data/raw/network_traffic.csv"
+  processed: "data/processed/cleaned_data.csv"
+
+# Model Hyperparameters
+# Might have to edit this in the future depending on how the model turns out.
+# Could have more parameters or configs etc.
+model:
+  name: "isolation_forest_v1"
+  contamination: 0.05 # Percentage of data we expect to be anomalies
+  random_state: 42
+
+# Features to use for detection
+features:
+  - "packet_size"
+  - "request_frequency"
+  - "error_count"
