@@ -1,29 +1,51 @@
+import os
+import pandas as pd
 from src.data_loader import load_and_preprocess
 from src.model import train_isolation_forest
-import os
 
 def main():
-    # Define paths based on your directory structure
-    data_path = 'data/raw/revised_scm_data.csv'
+    # Paths
+    raw_data_path = os.path.join('data', 'raw', 'revised_scm_data.csv')
+    output_csv = 'flagged_anomalies.csv'
     
-    # Ensure model directory exists
-    if not os.path.exists('models'):
-        os.makedirs('models')
-
-    print("--- Starting Anomaly Detection Workflow ---")
+    print("--- Initializing Anomaly Report Generation ---")
     
-    # Load and preprocess
-    processed_data = load_and_preprocess(data_path)
+    # 1. Load the original data for the final report
+    original_df = pd.read_csv(raw_data_path)
     
-    # Detect anomalies
-    results = train_isolation_forest(processed_data)
+    # 2. Get the preprocessed (encoded) data for the model
+    processed_df = load_and_preprocess(raw_data_path)
     
-    # Output results
-    anomalies = results[results['anomaly_score'] == -1]
-    print(f"Total Records Analyzed: {len(results)}")
-    print(f"Anomalies Detected: {len(anomalies)}")
-    print("\nSample Anomalous Records:")
-    print(anomalies.head())
+    # 3. Train model and get scores
+    # results_df will have the anomaly_label and anomaly_score columns
+    results_df = train_isolation_forest(processed_df)
+    
+    # 4. Map the results back to the original readable dataframe
+    original_df['anomaly_label'] = results_df['anomaly_label']
+    original_df['anomaly_score'] = results_df['anomaly_score']
+    
+    # 5. Filter for ONLY anomalies (label == -1)
+    anomalies_only = original_df[original_df['anomaly_label'] == -1].copy()
+    
+    # Sort by anomaly_score (most anomalous first)
+    anomalies_only = anomalies_only.sort_values(by='anomaly_score')
+    
+    # 6. Save only the anomalies to the root directory
+    anomalies_only.to_csv(output_csv, index=False)
+    
+    # Statistical Summary for Console
+    total_count = len(original_df)
+    anomaly_count = len(anomalies_only)
+    
+    print("\n" + "="*30)
+    print("ANOMALY DETECTION SUMMARY")
+    print("="*30)
+    print(f"Total Records Scanned: {total_count}")
+    print(f"Anomalies Identified:  {anomaly_count}")
+    print(f"Contamination Rate:    { (anomaly_count/total_count)*100:.2f}%")
+    print("-" * 30)
+    print(f"SUCCESS: Filtered report saved to: {os.path.abspath(output_csv)}")
+    print("="*30)
 
 if __name__ == "__main__":
     main()
