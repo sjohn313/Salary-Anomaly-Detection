@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from pathlib import Path
 # If your folder is named 'source', change 'src' to 'source' below
 from src.data_loader import load_raw_data, validate_scm_data
 from src.features import encode_categories
@@ -13,10 +14,12 @@ def main():
 
     # 2. Define File Paths
     # We assume your raw data is in the root or data/raw
-    input_path = "revised_scm_data.csv" 
-    processed_dir = "data/processed"
-    output_report = "final_anomaly_report.csv"
-
+    BASE_DIR = Path(__file__).resolve().parent
+    
+    input_path = os.path.join(BASE_DIR, "data", "raw", "revised_scm_data.csv")
+    processed_dir = os.path.join(BASE_DIR, "data", "processed")
+    output_report = os.path.join(BASE_DIR, "final_anomaly_report.csv")
+    
     # 3. Load and Validate Data
     try:
         df_raw = load_raw_data(input_path)
@@ -48,8 +51,13 @@ def main():
     df_raw['model_is_anomaly'] = predictions
 
     # 7. Save Final Results
-    df_raw.to_csv(output_report, index=False)
-    logger.info(f"SUCCESS: Analysis complete. Report saved as {output_report}")
+    df_anomalies = df_raw[df_raw['model_is_anomaly'] == True].copy()
+
+    if not df_anomalies.empty:
+        df_anomalies.to_csv(output_report, index=False)
+        logger.info(f"SUCCESS: Found {len(df_anomalies)} anomalies. Report saved: {output_report}")
+    else:
+        logger.info("No anomalies detected based on current model parameters.")
 
 if __name__ == "__main__":
     main()
